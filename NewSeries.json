@@ -1,5 +1,41 @@
 [
     {
+    "name": "Community",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjczOTM1OTctZmRkMS00OGYxLTkxYmQtOTFlMWM4MGE2MmI4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/Community1.json"
+    },
+    {
+    "name": "Community",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjczOTM1OTctZmRkMS00OGYxLTkxYmQtOTFlMWM4MGE2MmI4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/Community2.json"
+    },
+    {
+    "name": "Community",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjczOTM1OTctZmRkMS00OGYxLTkxYmQtOTFlMWM4MGE2MmI4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/Community3.json"
+    },
+    {
+    "name": "Community",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjczOTM1OTctZmRkMS00OGYxLTkxYmQtOTFlMWM4MGE2MmI4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "season": "Season 4",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/Community4.json"
+    },
+    {
+    "name": "Community",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjczOTM1OTctZmRkMS00OGYxLTkxYmQtOTFlMWM4MGE2MmI4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "season": "Season 5",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/Community5.json"
+    },
+    {
+    "name": "Community",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjczOTM1OTctZmRkMS00OGYxLTkxYmQtOTFlMWM4MGE2MmI4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "season": "Season 6",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/Community6.json"
+    },
+    {
     "name": "Sherlock",
     "image": "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_QL50_.jpg",
     "season": "Season 1",
