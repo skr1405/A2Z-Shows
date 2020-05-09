@@ -1,5 +1,17 @@
 [
     {
+    "name": "Code Geass: Lelouch of the Rebellion",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmEyM2VlZWItNWY4Ni00YmY2LWE3YTAtYjljMmU1MWEyYmZiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL50_.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/CodeGeass1.json"
+    },
+    {
+    "name": "Code Geass: Lelouch of the Rebellion",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmEyM2VlZWItNWY4Ni00YmY2LWE3YTAtYjljMmU1MWEyYmZiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL50_.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/CodeGeass2.json"
+    },
+    {
     "name": "Community",
     "image": "https://m.media-amazon.com/images/M/MV5BMjczOTM1OTctZmRkMS00OGYxLTkxYmQtOTFlMWM4MGE2MmI4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
     "season": "Season 1",
