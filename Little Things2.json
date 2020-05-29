@@ -1,22 +1,34 @@
 [ 
   {
     "name": "Episode 1",
-    "url": ""
+    "url": "https://firebasestorage.googleapis.com/v0/b/todloe-8dcfd.appspot.com/o/webseries%2Fa3%2Fs2e1%205850.mp4?alt=media&token=e9c3c3ec-76d1-470a-9783-d80734c3afd3"
   },
   {
     "name": "Episode 2",
-    "url": ""
+    "url": "https://firebasestorage.googleapis.com/v0/b/todloe-8dcfd.appspot.com/o/webseries%2Fa3%2Fs2e2%205851.mp4?alt=media&token=bbcd2710-8977-46cb-819a-2744833cf60d"
   },
   {
     "name": "Episode 3",
-    "url": ""
+    "url": "https://firebasestorage.googleapis.com/v0/b/todloe-8dcfd.appspot.com/o/webseries%2Fa3%2Fs2e3%205852.mp4?alt=media&token=c48aae1c-3c5e-4d5a-9cba-df81d5c8b397"
   },
   {
     "name": "Episode 4",
-    "url": ""
+    "url": "https://firebasestorage.googleapis.com/v0/b/todloe-8dcfd.appspot.com/o/webseries%2Fa3%2Fs2e4%205853.mp4?alt=media&token=24eb8a14-5b4e-41a4-883f-e88bae076130"
   },
   {
     "name": "Episode 5",
+    "url": ""
+  },
+  {
+    "name": "Episode 6",
+    "url": ""
+  },
+  {
+    "name": "Episode 7",
+    "url": ""
+  },
+  {
+    "name": "Episode 8",
     "url": ""
   }
 ]
