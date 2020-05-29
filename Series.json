@@ -1,5 +1,23 @@
 [
     {
+    "name": "Little Things",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWI4NjY1MmQtN2QwNS00YTQwLWJlNDItMjZjMjE1ODk3MzI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/Little%20Things1.json"
+    },
+    {
+    "name": "Little Things",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWI4NjY1MmQtN2QwNS00YTQwLWJlNDItMjZjMjE1ODk3MzI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/Little%20Things2.json"
+    },
+    {
+    "name": "Little Things",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWI4NjY1MmQtN2QwNS00YTQwLWJlNDItMjZjMjE1ODk3MzI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_.jpg",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/Little%20Things3.json"
+    },
+    {
     "name": "Code Geass: Lelouch of the Rebellion",
     "image": "https://m.media-amazon.com/images/M/MV5BYmEyM2VlZWItNWY4Ni00YmY2LWE3YTAtYjljMmU1MWEyYmZiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL50_.jpg",
     "season": "Season 1",
