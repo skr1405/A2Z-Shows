@@ -1,9 +1,9 @@
 [
     {
-    "name": "Explained",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjU1NzYwMmQtMjEzMS00ODEzLWIxNzAtYjI3M2QwYWFmMTIwXkEyXkFqcGdeQXVyNDA4NzUyMzg@._V1_QL50_.jpg",
-    "season": "Season 2",
-    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Explained/Season2.json"
+    "_name": "Explained",
+    "_image": "https://m.media-amazon.com/images/M/MV5BNjU1NzYwMmQtMjEzMS00ODEzLWIxNzAtYjI3M2QwYWFmMTIwXkEyXkFqcGdeQXVyNDA4NzUyMzg@._V1_QL50_.jpg",
+    "_season": "Season 2",
+    "_url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Explained/Season2.json"
     },
     {
     "name": "Little Things",
