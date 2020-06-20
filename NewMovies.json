@@ -1,4 +1,46 @@
 [
+    {
+      "name": "Race 3 (2018)",
+      "link": "https://firebasestorage.googleapis.com/v0/b/todloe-8dcfd.appspot.com/o/movie%2Fa2%2FRace%203%202018%203655.mkv?alt=media&token=922a4060-f720-43e7-b1f9-75b2839e45bb",
+      "imglink": "https://m.media-amazon.com/images/M/MV5BMzQ4ZTc5ZTItYWRhNi00YTJjLWI4NGMtNjA0ODQ1ZDQxNzkyXkEyXkFqcGdeQXVyNjc4NjAxMzM@._V1_QL50_SY1000_SX750_AL_.jpg",
+      "category": "Action, Thriller",
+      "desc": "Relationships and loyalties of a criminal family planning its next big heist are tested when some shocking revelations strike them."
+    },
+    {
+      "name": "Ala Vaikunthapurramuloo (2020)",
+      "link": "https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv628241.mkv?GoogleAccessId=thpkey@linen-patrol-193403.iam.gserviceaccount.com&Expires=1592659519&Signature=SdeKGdVWYea0GsxPFrTt%2BiMBGIQ0Bfj7PqfWEH%2F52mnr6Qnu3mLKbLQ36ej%2FEKL9i3Ucl4S4ZIXliEsCE%2FaYAKKgaxXr3LLSn4IbC0esajI8728Y38kdgIFouXl7XIvYlCaE5qhGQVfVvZNClx%2F72QBkfr66TrspYZG493khi4Gx8aIzkC7IU%2Bw16tnVC3bFH2BQCsTYhRGX5E7KmoFVaQpy92NIxvnAJiP%2B%2BZm4SiNU6EabQj1UBFQjl96Wik5Q9ryDQeF92m8uGYJa4K1WN4AbNsRujreUMoT6e1uYfpcnipzofa%2FzPUkUG2X%2Fp43gnQRncq2rXU%2B5AInrjDqUEw%3D%3D",
+      "imglink": "https://m.media-amazon.com/images/M/MV5BODc2YzM0MWMtOGE0ZC00Njc2LTliYTYtN2ZjZGFkZTI4ZmE3XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_QL50_.jpg",
+      "category": "Action, Drama",
+      "desc": "A jealous clerk secretly switches his newborn son with his millionaire friend's temporarily stillborn son."
+    },
+    {
+      "name": "Baahubali 2: The Conclusion (2017)",
+      "link": "https://firebasestorage.googleapis.com/v0/b/rkimovies.appspot.com/o/Other%20Movies%2FBaahubali%202%20The%20Conclusion%202017%20(RKIMovies)%20720p%20BluRay.mp4?alt=media&token=0e49c721-a352-40cb-bf59-525ca1a2139f",
+      "imglink": "https://m.media-amazon.com/images/M/MV5BMmE2MzYyY2UtYTI2ZS00NjUyLWE5MjEtMmJmMWVmZWFmMTYwXkEyXkFqcGdeQXVyODk2ODI3MTU@._V1_QL50_SY1000_CR0,0,705,1000_AL_.jpg",
+      "category": "Action, Drama",
+      "desc": "When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom."
+    },
+    {
+      "name": "Baahubali: The Beginning (2015)",
+      "link": "https://firebasestorage.googleapis.com/v0/b/todloe-8dcfd.appspot.com/o/movie%2Fa2%2FBahubali%20the%20beginning%203465.mkv?alt=media&token=72814fd6-d11b-416a-b72b-36d3fdbf1038",
+      "imglink": "https://m.media-amazon.com/images/M/MV5BZTQ3MjU2Y2UtZjI1My00NDc5LWE1OTgtYWZkMmMyMmUxNjkyXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_QL50_.jpg",
+      "category": "Action, Drama",
+      "desc": "In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people."
+    },
+    {
+      "name": "The Amazing Spider-Man 2 (2014)",
+      "link": "https://firebasestorage.googleapis.com/v0/b/todloe-8dcfd.appspot.com/o/movie%2Fa1%2FThe%20Amazing%20Spider%20Man%202%20(2014)%204499.mkv?alt=media&token=8571eba3-20ed-40e8-a32a-334b0a892add",
+      "imglink": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_QL50_SY1000_SX675_AL_.jpg",
+      "category": "Action, Adventure, Sci-Fi",
+      "desc": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones."
+    },
+    {
+      "name": "The Amazing Spider-Man (2012)",
+      "link": "https://firebasestorage.googleapis.com/v0/b/todloe-8dcfd.appspot.com/o/movie%2Fa1%2FThe%20Amazing%20Spider-Man%20(2012)%204500.mkv?alt=media&token=5fdeef4c-c7e9-4644-93f7-4ab55ea6a8c4",
+      "imglink": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
+      "category": "Action, Adventure, Sci-Fi",
+      "desc": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe."
+    },
      {
       "name": "1920 London (2016)",
       "link": "https://firebasestorage.googleapis.com/v0/b/todloe-8dcfd.appspot.com/o/movie%2Fa2%2F1920%20London%20(2016)%203752.mkv?alt=media&token=659170e6-c301-4469-a802-66c9ecd28f7b",
@@ -75,89 +117,5 @@
       "imglink": "https://m.media-amazon.com/images/M/MV5BMjA0NTE5OTczNl5BMl5BanBnXkFtZTgwNDAxNTc3NzE@._V1_QL50_SY1000_CR0,0,578,1000_AL_.jpg",
       "category": "Action, Adventure, Family",
       "desc": "A monkey born from heavenly stone acquires supernatural powers and must battle the armies of both gods and demons to find his place in the heavens."
-    },
-    {
-      "name": "Haunted - 3D (2011)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/todloe-8dcfd.appspot.com/o/movie%2Fa2%2FHaunted%203D%20(2011)%203928.mkv?alt=media&token=cbc9d2c1-ce80-4d61-b88d-acc6e46e3e2e",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BMjEzMzI0OTEzOV5BMl5BanBnXkFtZTcwOTE2MDcxNQ@@._V1_QL50_SY1000_CR0,0,697,1000_AL_.jpg",
-      "category": "Action, Fantasy, Horror",
-      "desc": "A realtor finds himself accompanied by two ghostly entities inside a mansion. He learns of a violent event that took place years ago and is sent back in time to prevent it from happening."
-    },
-    {
-      "name": "1921 (2018)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/rkimovies.appspot.com/o/Dual%20Audio%20Movies%2F1921%20(2018)%20Hindi%20(RKIMovies)%20720p%20DVDRip.mp4?alt=media&token=1c2b7065-8dd4-49e6-88c8-39a94a245664",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BY2NkOWFmNTMtMzdjNy00ZGZlLWExZGItMWY3NWU0YmU5MmZiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,697,1000_AL_.jpg",
-      "category": "Horror, Mystery, Romance",
-      "desc": "In 1920s England, a pianist enlists the help of a ghost whisperer to cleanse the unclean spirit that is haunting him."
-    },
-    {
-      "name": "Men in Black: International (2019)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/rkimovies.appspot.com/o/Dual%20Audio%20Movies%2FMen%20in%20Black%20International%20(2019)%20Dual%20Audio%20Hindi%20RKIMovies.Net%20ORG%20720p%20BluRay%20x264%20ESubs.mkv?alt=media&token=e96e1d44-74b0-421c-b148-d2b291f7e71d",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-      "category": "Action, Adventure, Comedy",
-      "desc": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest threat to date: a mole in the Men in Black organization."
-    },
-    {
-      "name": "Men in Black 3 (2012)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/quiet-surface-244320.appspot.com/o/4%2FMib%2FMen.In.Black.3.(2012).720p.Dual.Audio.(Hin-Eng).%5BMoviesKiDuniya.in%5D.mkv?alt=media&token=23bcf0a8-f7e3-4389-8bd8-2cb7b86368ba",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-      "category": "Action, Adventure, Comedy",
-      "desc": "Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history."
-    },
-    {
-      "name": "Men in Black II (2002)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/quiet-surface-244320.appspot.com/o/4%2FMib%2FMen.In.Black.2.(2002).720p.Dual.Audio.(Hin-Eng).%5BMoviesKiDuniya.in%5D.mkv?alt=media&token=8da6591a-b219-4cb3-930b-b8c62c8e2e57",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_QL50_.jpg",
-      "category": "Action, Adventure, Comedy",
-      "desc": "Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past."
-    },
-    {
-      "name": "Resident Evil: The Final Chapter (2016)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/engaged-iridium-244407.appspot.com/o/ResidentEvil%2FResident.Evil.The.Final.Chapter.(2016).720p.Dual.Audio.(Hin-Eng).%5BMoviesKiDuniya.CoM%5D.mkv?alt=media&token=05598e68-6614-4c98-8af1-5751c5ba583e",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BMTc0Mzc2OTQ0Ml5BMl5BanBnXkFtZTgwOTQ5MjE4MDI@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-      "category": "Action, Adventure, Horror",
-      "desc": "Alice returns to where the nightmare began: The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse."
-    },
-    {
-      "name": "Resident Evil: Retribution (2012)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/engaged-iridium-244407.appspot.com/o/ResidentEvil%2FResident.Evil.Retribution.(2012).720p.Dual.Audio.(Hin-Eng).%5BMoviesKiDuniya.CoM%5D.mkv?alt=media&token=420dfe2f-e2bc-4543-a8ea-c198b77ef74e",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BMTA2NTkwNjUxNTZeQTJeQWpwZ15BbWU3MDE2OTMxMTg@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-      "category": "Action, Adventure, Fantasy",
-      "desc": "Alice fights alongside a resistance movement to regain her freedom from an Umbrella Corporation testing facility."
-    },
-    {
-      "name": "Insidious: Chapter 2 (2013)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/organic-tree-244316.appspot.com/o/Insidious%2FInsidious.Chapter.2.(2013).720p.Dual.Audio.(Hin-Eng).%5BMoviesKiDuniya.in%5D.mkv?alt=media&token=8b0f6405-ab79-4bf3-815a-bec562417093",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BMTg0OTA5ODIxNF5BMl5BanBnXkFtZTcwNTUzNDg4OQ@@._V1_QL50_.jpg",
-      "category": "Horror, Mystery, Thriller",
-      "desc": "The Lamberts believe that they have defeated the spirits that have haunted their family, but they soon discover that evil is not beaten so easily."
-    },
-    {
-      "name": "Spirited Away (2001)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/rkimovies.appspot.com/o/Dual%20Audio%20Movies%2FSpirited.Away.2001.720p.BluRay.Hindi.Dual-Audio.x264.ESub.mkv?alt=media&token=c6b7dceb-b360-44b0-be1f-ec7ba1bc24e2",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-      "category": "Animation, Adventure, Family",
-      "desc": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts."
-    },
-    {
-      "name": "Resident Evil: Afterlife (2010)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/engaged-iridium-244407.appspot.com/o/ResidentEvil%2FResident.Evil.Afterlife.(2010).720p.Dual.Audio.(Hin-Eng).%5BMoviesKiDuniya.CoM%5D.mkv?alt=media&token=fcf5ee2d-931d-40af-b32e-f358f89aa7bf",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BZjRlMGQ0NmUtM2U2Ny00MTk3LTg5NjAtN2M3Y2JmZjllNjJlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-      "category": "Action, Adventure, Fantasy",
-      "desc": "While still out to destroy the evil Umbrella Corporation, Alice joins a group of survivors living in a prison surrounded by the infected who also want to relocate to the mysterious but supposedly unharmed safe haven known only as Arcadia."
-    },
-    {
-      "name": "Resident Evil: Extinction (2007)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/engaged-iridium-244407.appspot.com/o/ResidentEvil%2FResident.Evil.Extinction.(2007).720p.Dual.Audio.(Hin-Eng).%5BMoviesKiDuniya.CoM%5D.mkv?alt=media&token=f8100ae8-7080-46c5-922f-5ad97d4c8d6c",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BNDQ0MWI3MmEtMzM0OC00Y2ViLWE4MDItMzNhNmY1ZTdjMWE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL50_.jpg",
-      "category": "Action, Adventure, Fantasy",
-      "desc": "Survivors of the Raccoon City catastrophe travel across the Nevada desert, hoping to make it to Alaska. Alice joins the caravan and their fight against the evil Umbrella Corp."
-    },
-    {
-      "name": "Insidious (2010)",
-      "link": "https://firebasestorage.googleapis.com/v0/b/organic-tree-244316.appspot.com/o/Insidious%2FInsidious.(2010).720p.Dual.Audio.(Hin-Eng).%5BMoviesKiDuniya.in%5D.mkv?alt=media&token=5863d0d8-120a-4fb1-98bb-be4436046b75",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
-      "category": "Horror, Mystery, Thriller",
-      "desc": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further."
     }
 ]
