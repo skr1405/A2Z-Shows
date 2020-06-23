@@ -1,5 +1,10 @@
 [
     {
+      "name": "Sony Pix HD",
+      "imglink": "https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",
+      "link": "https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
+    },
+    {
       "name": "Shemaroo Bollywood",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMK5ZoqzA8XEaGdyssPyd5LYHkRCghbkgKAwWZNQe0UPThBrC9&usqp=CAU",
       "link": "https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_cf.m3u8"
