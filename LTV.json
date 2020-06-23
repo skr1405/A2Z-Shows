@@ -1,7 +1,7 @@
 [
     {
-      "name": "sb",
-      "imglink": "",
+      "name": "&Tv HD",
+      "imglink": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvhd_0/channel_web/09tvhd_0tvhd.png",
       "link": "https://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1592938098~exp=1592941098~acl=/*~hmac=df45eea49bc0fe84781b666c299a7caf4af00038e0221e659cde47f5ec19644e"
     },
     {
