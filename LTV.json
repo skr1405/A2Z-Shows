@@ -1,5 +1,10 @@
 [
     {
+      "name": "Sony Yay",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWHBQS0VYcKUWhWweMDd9TVNTEVn1YKnKXnHGZhlkT0DcTomAC&usqp=CAU",
+      "link": "https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?&__nn__=5606168722001&hdnea=st=1592940600~exp=1592944200~acl=/hls/live/2011746/SonyYaySD/*~hmac=2476c746ad3bc14e75e85a0366b662284fdc1f6f0396e0bed59dafbae19ff732"
+    },
+    {
       "name": "&Tv HD",
       "imglink": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvhd_0/channel_web/09tvhd_0tvhd.png",
       "link": "https://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1592938098~exp=1592941098~acl=/*~hmac=df45eea49bc0fe84781b666c299a7caf4af00038e0221e659cde47f5ec19644e"
