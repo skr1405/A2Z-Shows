@@ -1,5 +1,10 @@
 [
     {
+      "name": "Sony BBC Earth HD",
+      "imglink": "",
+      "link": "https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001"
+    },
+    {
       "name": "DD News",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7n2R6CuRlMNZ877LoZ9Y1FpULgLH835D20iXzdiM6KwpOhb6o&usqp=CAU",
       "link": "https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8"
