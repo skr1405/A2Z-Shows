@@ -1,5 +1,10 @@
 [
     {
+      "name": "Shemaroo Bollywood",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMK5ZoqzA8XEaGdyssPyd5LYHkRCghbkgKAwWZNQe0UPThBrC9&usqp=CAU",
+      "link": "https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_cf.m3u8"
+    },
+    {
       "name": "DD Sports",
       "imglink": "https://upload.wikimedia.org/wikipedia/en/4/4e/DDSportsLogo.png",
       "link": "https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in.m3u8"
