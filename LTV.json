@@ -1,5 +1,10 @@
 [
     {
+      "name": "Epic Tv",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRC5iZB-i5BsP3lfgXjvskOHm1UzkU5v5uGiJj7zcl-wNwfbfyb&usqp=CAU",
+      "link": "https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8"
+    },
+    {
       "name": "Shemaroo Kids",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJn3pNrDLVdPg0pYLi3-J-EYng7NTNVUjVeKHElivv81MUIaSt&usqp=CAU",
       "link": "https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/playlist_cf.m3u8"
@@ -45,7 +50,7 @@
       "link": "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_1/chunklist.m3u8"
     },
     {
-      "name": "Sony Entertainment Television HD",
+      "name": "Sony Set HD",
       "imglink": "https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",
       "link": "https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
     }    
