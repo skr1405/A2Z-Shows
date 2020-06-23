@@ -1,5 +1,10 @@
 [
     {
+      "name": "Hungama Music",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSL0elvERrsx7gvtk_kRCkXBh7aVZ3P3KEZfuhjnfIH-B-5gbMu&usqp=CAU",
+      "link": "http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8"
+    },
+    {
       "name": "Music India",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ41kPZrUheOtwMSUUcbV8Dv5Ebspa3-XgJmDHwaYp3fNSN-zRR&usqp=CAU",
       "link": "http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8"
