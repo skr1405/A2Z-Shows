@@ -1,5 +1,10 @@
 [
     {
+      "name": "Movie Plus",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPVXPpGItHPFZ9q8_WA1gTqT0vq7-jvTcpIov_vxNkZL4z7Tqv&usqp=CAU",
+      "link": "https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8"
+    },
+    {
       "name": "Epic Tv",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRC5iZB-i5BsP3lfgXjvskOHm1UzkU5v5uGiJj7zcl-wNwfbfyb&usqp=CAU",
       "link": "https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8"
