@@ -1,7 +1,7 @@
 [
     {
-      "name": "Abp News HD",
-      "imglink": "https://upload.wikimedia.org/wikipedia/en/4/49/ABP_News_logo.png",
+      "name": "ABP News HD",
+      "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/ABP%20News.png",
       "link": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8"
     },
     {
