@@ -1,5 +1,10 @@
 [
     {
+      "name": "Zoom",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtxvUQxkv4UgnREzug7d4fcXa61-_ow_xYmg&usqp=CAU",
+      "link": "https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8"
+    },
+    {
       "name": "WOW Cinema One",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/WOW%20Cinema%20One.png",
       "link": "https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8"
