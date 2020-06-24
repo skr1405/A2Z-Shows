@@ -1,12 +1,12 @@
 [
     {
       "name": "WOW Cinema One",
-      "imglink": "",
+      "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/WOW%20Cinema%20One.png",
       "link": "https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8"
     },
     {
       "name": "ABP News HD",
-      "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/ABP%20News.png",
+      "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/ABP%20News.pn",
       "link": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8"
     },
     {
