@@ -106,7 +106,7 @@
     },
     {
       "name": "Aaj Tak HD",
-      "imglink": "https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg",
+      "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/AXN%20HD.png",
       "link": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
     },
     {
