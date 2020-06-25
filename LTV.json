@@ -1,6 +1,6 @@
 [
     {
-      "name": "SB",
+      "name": "Star Bharat HD",
       "imglink": "",
       "agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
       "link": "http://sklktcdnems04.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master.m3u8?partner=jio-stb"
@@ -8,11 +8,13 @@
     {
       "name": "Bol Hadippa",
       "imglink": "https://images.hungama.com/c/1/e33/534/41239624/41239624_800x800.jpg",
+      "agent": "",
       "link": "https://content.uplynk.com/channel/0d5e591ae36b4e7d9b34fe6119ed8cf1.m3u8"
     },
     {
       "name": "Bhakti Sagar",
       "imglink": "https://images.hungama.com/c/1/f5c/f53/41239479/41239479_800x800.jpg",
+      "agent": "",
       "link": "https://content.uplynk.com/channel/7c790f86d2164d509f16e7fa13d894fb.m3u8"
     },
     {
@@ -24,6 +26,7 @@
     {
       "name": "Maha Movie",
       "imglink": "https://lh3.googleusercontent.com/fLiwIcBuhoqiCiPIqwx5z6Qbg0mvl7BfXTQZI9pMgRQDuXY53r-NiEgOybdfI6cq_RA",
+      "agent": "",
       "link": "https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8"
     },
     {
@@ -35,126 +38,151 @@
     {
       "name": "Zoom",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtxvUQxkv4UgnREzug7d4fcXa61-_ow_xYmg&usqp=CAU",
+      "agent": "",
       "link": "https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8"
     },
     {
       "name": "WOW Cinema One",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/WOW%20Cinema%20One.png",
+      "agent": "",
       "link": "https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8"
     },
     {
       "name": "ABP News HD",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/ABP%20News.png",
+      "agent": "",
       "link": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8"
     },
     {
       "name": "News Nation",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAjPLubbAH9hJYm9dN2b75pT5oZL03eKPqbg&usqp=CAU",
+      "agent": "",
       "link": "https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8"
     },
     {
       "name": "Sony Sab HD",
       "imglink": "https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png",
+      "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa"
     },
     {
       "name": "Sony Ten 1 HD",
       "imglink": "https://origin-staticv2.sonyliv.com/masthead_logo/6025460795001.png",
+      "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001"
     },
     {
       "name": "Sony Ten 3 HD",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Sony%20Ten%203%20HD.jpg",
+      "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001"
     },
     {
       "name": "AXN HD",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/AXN%20HD.png",
+      "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
     },
     {
       "name": "Sony BBC Earth HD",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU",
+      "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001"
     },
     {
       "name": "DD News",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/DD%20News.gif",
+      "agent": "",
       "link": "https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8"
     },
     {
       "name": "News 24",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM5F5TrgYY7W2Lmyw1k90JEbBlG-TCwFRuBJf8J7g9NrzWvRaT&usqp=CAU",
+      "agent": "",
       "link": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"
     },
     {
       "name": "Dhamaal",
       "imglink": "https://images.hungama.com/c/1/13c/a48/41239512/41239512_800x800.jpg",
+      "agent": "",
       "link": "http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8"
     },
     {
       "name": "9X Jalwa",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHnx3WFy_uKpam8jnsG9NnWkMjjQcUZ9LgeqC1i3F4zJEk7cMt&usqp=CAU",
+      "agent": "",
       "link": "https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8"
     },
     {
       "name": "Movie Plus",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPVXPpGItHPFZ9q8_WA1gTqT0vq7-jvTcpIov_vxNkZL4z7Tqv&usqp=CAU",
+      "agent": "",
       "link": "https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8"
     },
     {
       "name": "Epic Tv",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRC5iZB-i5BsP3lfgXjvskOHm1UzkU5v5uGiJj7zcl-wNwfbfyb&usqp=CAU",
+      "agent": "",
       "link": "https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8"
     },
     {
       "name": "Shemaroo Kids",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Shemaroo%20Kids.png",
+      "agent": "",
       "link": "https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/playlist_cf.m3u8"
     },
     {
       "name": "Sony Pal",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKdCQSnJUzE9oAi3NapFzUE8epXEvR9-WDVRWO3lgxsC9Xcn78&usqp=CAU",
+      "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
     },
     {
       "name": "Dil Se",
       "imglink": "https://images.hungama.com/c/1/41b/25b/41239464/41239464_800x800.jpg",
+      "agent": "",
       "link": "http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8"
     },
     {
       "name": "Music India",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Music%20India.png",
+      "agent": "",
       "link": "https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8"
     },
     {
       "name": "Sony Pix HD",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Sony%20Pix%20HD.png",
+      "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
     },
     {
       "name": "Shemaroo Bollywood",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Shemaroo%20Bollywood.png",
+      "agent": "",
       "link": "https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_cf.m3u8"
     },
     {
       "name": "DD Sports",
       "imglink": "https://upload.wikimedia.org/wikipedia/en/4/4e/DDSportsLogo.png",
+      "agent": "",
       "link": "https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in.m3u8"
     },
     {
       "name": "Sony Max HD",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Sony%20Max%20HD.png",
+      "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
     },
     {
       "name": "Aaj Tak HD",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Aaj%20Tak%20HD.png",
+      "agent": "",
       "link": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
     },
     {
       "name": "Sony Set HD",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Sony%20Set%20HD.png",
+      "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
     }    
 ]
