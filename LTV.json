@@ -1,5 +1,11 @@
 [
     {
+      "name": "SB",
+      "imglink": "",
+      "agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
+      "link": "http://sklktcdnems04.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master.m3u8?partner=jio-stb"
+    },
+    {
       "name": "Bol Hadippa",
       "imglink": "https://images.hungama.com/c/1/e33/534/41239624/41239624_800x800.jpg",
       "link": "https://content.uplynk.com/channel/0d5e591ae36b4e7d9b34fe6119ed8cf1.m3u8"
