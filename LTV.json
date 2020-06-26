@@ -1,5 +1,11 @@
 [
     {
+      "name": "Disney Channel",
+      "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Disney%20Channel.png",
+      "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/",
+      "link": "http://zer0live.hjkm.info:11990/neptune/disneychannelhindi/playlist.m3u8"
+    },
+    {
       "name": "9XM",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVhMEEoYm3iR_HRN3HsR9rnky45UwNdPYpWg&usqp=CAU",
       "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/",
