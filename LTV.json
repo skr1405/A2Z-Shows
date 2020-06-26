@@ -1,5 +1,11 @@
 [
     {
+      "name": "Star Plus HD",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxIv9GDJh6CLtzqo5gRnJFwJqTvdiJUh5rIA&usqp=CAU",
+      "agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
+      "link": "http://hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master.m3u8?partner=jio-stb"
+    },
+    {
       "name": "Pogo",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdRGCEd0-4Cuu5NcvnZ6e83VfDFbQkJv-c3g&usqp=CAU",
       "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/",
