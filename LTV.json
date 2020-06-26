@@ -1,5 +1,11 @@
 [
     {
+      "name": "Star Gold HD",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQY2k9P1ESLbBiiPDUKRzLjmuwr-xt931BQQ&usqp=CAU",
+      "agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
+      "link": "http://hotstar.live.cdn.jio.com/hotstar_isl/stargold/master.m3u8?partner=jio-stb"
+    },
+    {
       "name": "Star Plus HD",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlsTZ6ZItdf0r7xdciX1F3AhRBZ7c_blpnEg&usqp=CAU",
       "agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
