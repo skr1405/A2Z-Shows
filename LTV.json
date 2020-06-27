@@ -1,7 +1,7 @@
 [
     {
       "name": "Zee Cinema HD",
-      "imglink": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_580/PORTRAIT/sjM1MbFR.png",
+      "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Zee%20Cinema%20HD.png",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/zcinemahd/index.m3u8"
     },
