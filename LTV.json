@@ -1,5 +1,11 @@
 [
     {
+      "name": "&TV HD",
+      "imglink": "https://akamaividz2.zee5.com/image/upload/w_386,h_386,c_scale,f_auto,q_auto/resources/0-9-tvhd_0/channel_square/tvhd_386x386_634196922.png",
+      "agent": "@skr@http://168.235.105.162:3003/aostv/59",
+      "link": "https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8"
+    },
+    {
       "name": "Sony Yay!",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeGYLthEfQZMgpMjlfwbi2h6pnoaGmrpXXRA&usqp=CAU",
       "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/",
