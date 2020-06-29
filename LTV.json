@@ -1,5 +1,11 @@
 [
     {
+      "name": "Zee Business",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0Gw4VkQdAjwJsjffx_5fqL2_56iKjqtCJnA&usqp=CAU",
+      "agent": "@skr@http://168.235.105.162:3003/aostv/59",
+      "link": "https://z5ams.akamaized.net/out/v1/7dcee573362e48908ab1b335d8780625/index.m3u8"
+    },
+    {
       "name": "Zee News",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6tFRVPAS13tanp5MVweh3Zjybu4DzWjEXeA&usqp=CAU",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
