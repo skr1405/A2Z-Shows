@@ -1,5 +1,11 @@
 [
     {
+      "name": "Zee Rajasthan",
+      "imglink": "https://pbs.twimg.com/profile_images/1069870389893820416/vWP2eE9t_400x400.jpg",
+      "agent": "@skr@http://168.235.105.162:3003/aostv/59",
+      "link": "https://z5ams.akamaized.net/rajasthan/index.m3u8"
+    },
+    {
       "name": "Zing",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8ryrrjIZMzDR7QMlTOXVypDpcw1HkfY1ag&usqp=CAU",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
