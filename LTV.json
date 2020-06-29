@@ -1,7 +1,7 @@
 [
     {
-      "name": "Zee Tv HD",
-      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTY1YV1sKO7OipbZoHzZAJqiVmS0knoBI5w2Q&usqp=CAU",
+      "name": "Zee TV HD",
+      "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Zee%20TV%20HD.png",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db/index.m3u8"
     },
