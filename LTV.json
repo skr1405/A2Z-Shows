@@ -1,5 +1,12 @@
 [
     {
+      "name": "Zee ETC",
+      "cat": "Music",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5cFjn1-E3YNfS9AUa7SdYi6M45-GAqDfr4w&usqp=CAU",
+      "agent": "@skr@http://168.235.105.162:3003/aostv/59",
+      "link": "https://z5ams.akamaized.net/etc/index.m3u8"
+    },
+    {
       "name": "9X Tashan",
       "cat": "Music",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRamJCEB3iHlGoIAcWXMSylhrHWVw90r3c_xQ&usqp=CAU",
