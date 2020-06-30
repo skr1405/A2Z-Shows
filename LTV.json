@@ -1,5 +1,12 @@
 [
     {
+      "name": "Zee Action",
+      "cat": "Movies",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQj5tgFmtx9WzvA6xTMeuQoSRpXv9zLH_kV0g&usqp=CAU",
+      "agent": "@skr@http://168.235.105.162:3003/aostv/59",
+      "link": "https://z5ams.akamaized.net/action/index.m3u8"
+    },
+    {
       "name": "Zee Anmol Cinema",
       "cat": "Movies",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8JcJqedqeLo2I2isddna9DVluid71HG6Lgg&usqp=CAU",
