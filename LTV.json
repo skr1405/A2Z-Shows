@@ -309,18 +309,21 @@
     },
     {
       "name": "Shemaroo Kids",
+      "cat": "Kids",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Shemaroo%20Kids.png",
       "agent": "",
       "link": "https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/playlist_cf.m3u8"
     },
     {
       "name": "Sony Pal",
+      "cat": "Entertainment",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKdCQSnJUzE9oAi3NapFzUE8epXEvR9-WDVRWO3lgxsC9Xcn78&usqp=CAU",
       "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
     },
     {
       "name": "Dil Se",
+      "cat": "Music",
       "imglink": "https://images.hungama.com/c/1/41b/25b/41239464/41239464_800x800.jpg",
       "agent": "",
       "_link": "https://content.uplynk.com/channel/23cebcb9577f4efaab2a279046cdac76.m3u8",
@@ -328,42 +331,49 @@
     },
     {
       "name": "Music India",
+      "cat": "Music",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Music%20India.png",
       "agent": "",
       "link": "https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8"
     },
     {
       "name": "Sony Pix HD",
+      "cat": "Movies",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Sony%20Pix%20HD.png",
       "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
     },
     {
       "name": "Shemaroo Bollywood",
+      "cat": "Movies",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Shemaroo%20Bollywood.png",
       "agent": "",
       "link": "https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_cf.m3u8"
     },
     {
       "name": "DD Sports",
+      "cat": "Sports",
       "imglink": "https://upload.wikimedia.org/wikipedia/en/4/4e/DDSportsLogo.png",
       "agent": "",
       "link": "https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in.m3u8"
     },
     {
       "name": "Sony Max HD",
+      "cat": "Movies",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Sony%20Max%20HD.png",
       "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
     },
     {
       "name": "Aaj Tak HD",
+      "cat": "News",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Aaj%20Tak%20HD.png",
       "agent": "",
       "link": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
     },
     {
       "name": "Sony Set HD",
+      "cat": "Entertainment",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Sony%20Set%20HD.png",
       "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
