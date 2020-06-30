@@ -183,150 +183,175 @@
     },
     {
       "name": "Star Maa HD",
+      "cat": "Entertainment",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM8hySbrnN0h1tAn_BHHsugj9SrGQDe9-JnQ&usqp=CAU",
       "agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
       "link": "http://hotstar.live.cdn.jio.com/hotstar_isl/maatv/master.m3u8?partner=jio-stb"
     },
     {
       "name": "Star Gold HD",
+      "cat": "Movies",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQye8v58o2uVvEe10rw0P7ntnEd7Jvifmb_9Q&usqp=CAU",
       "agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
       "link": "http://hotstar.live.cdn.jio.com/hotstar_isl/stargold/master.m3u8?partner=jio-stb"
     },
     {
       "name": "Star Plus HD",
+      "cat": "Entertainment",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlsTZ6ZItdf0r7xdciX1F3AhRBZ7c_blpnEg&usqp=CAU",
       "agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
       "link": "http://hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master.m3u8?partner=jio-stb"
     },
     {
       "name": "Pogo",
+      "cat": "Kids",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdRGCEd0-4Cuu5NcvnZ6e83VfDFbQkJv-c3g&usqp=CAU",
       "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/@skr@70,76,84,92@skr@4",
       "link": "http://zer0live.hjkm.info:11990/juno/pogohindi/playlist.m3u8"
     },
     {
       "name": "Star Bharat HD",
+      "cat": "Entertainment",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTUPYrC8q4FVTRnLHg1vO39yV8lYXV6D36Ig&usqp=CAU",
       "agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
       "link": "http://sklktcdnems04.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master.m3u8?partner=jio-stb"
     },
     {
       "name": "Bol Hadippa",
+      "cat": "Music",
       "imglink": "https://images.hungama.com/c/1/e33/534/41239624/41239624_800x800.jpg",
       "agent": "",
       "link": "https://content.uplynk.com/channel/0d5e591ae36b4e7d9b34fe6119ed8cf1.m3u8"
     },
     {
       "name": "Bhakti Sagar",
+      "cat": "Music",
       "imglink": "https://images.hungama.com/c/1/f5c/f53/41239479/41239479_800x800.jpg",
       "agent": "",
       "link": "https://content.uplynk.com/channel/7c790f86d2164d509f16e7fa13d894fb.m3u8"
     },
     {
       "name": "Housefull Movies",
+      "cat": "Movies",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Housefull%20Movies.png",
       "agent": "",
       "link": "https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in.m3u8"
     },
     {
       "name": "Maha Movie",
+      "cat": "Movies",
       "imglink": "https://lh3.googleusercontent.com/fLiwIcBuhoqiCiPIqwx5z6Qbg0mvl7BfXTQZI9pMgRQDuXY53r-NiEgOybdfI6cq_RA",
       "agent": "",
       "link": "https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8"
     },
     {
       "name": "Colors HD",
+      "cat": "Entertainment",
       "link": "https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd",
       "agent": "playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6@skr@https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZBVk1lOVg2REVWQ1liVG42OGtUYkloX25jVExRRHdnMTliMkVSek91NUZ4SW5LRVNjNzFUcWZXaFR3aDBneUtYUTVvWUZrY2VSZlpuemxIcEJKRjJYU19hZ0ZqS0FlSENtbF84OV9LeWt0bVBSLVRyb0pyc2NoSmxqU3h1MXRHZnFqdkk0ZU1DQ0NFQ0RDSWFkYWhPRlA4aFNKclJRVllTdTVMY2pibkZhSFd5SjhfZFVMcGxTbUtjRi1GU3Y4akE0VGxvSm9DZXFwMndpdkxBS1NQVVY3amsxR2pjdXZYanFRQjl6OF9CTzZUMkxudnRkSHhERHkzYU9xQkVGNEJtbXBGZWphbm00alFBNm9kT1hRQkhaNkx4VUpubjVjdmVNMDZBcUdINGJkZVJWcUtSclJFSUZKZENSemtqc1I4WXBCWEJnejBzUWE1amhxZWtyRUVBSFhFSzZUUWpxX2UxWGhMYVQyQWxiN1RSVlNOR0N5THBDUDVKMmZ0Nlg1cXBRPT0mY29udGV4dFR5cGU9bm9uZSZpZD04ODQyMzcyIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2hkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZBVk1lOVg2REVWQ1liVG42OGtUYkloX25jVExRRHdnMTliMkVSek91NUZ4SW5LRVNjNzFUcWZXaFR3aDBneUtYUTVvWUZrY2VSZlpuemxIcEJKRjJYU19hZ0ZqS0FlSENtbF84OV9LeWt0bVBSLVRyb0pyc2NoSmxqU3h1MXRHZnFqdkk0ZU1DQ0NFQ0RDSWFkYWhPRlA4aFNKclJRVllTdTVMY2pibkZhSFd5SjhfZFVMcGxTbUtjRi1GU3Y4akE0VGxvSm9DZXFwMndpdkxBS1NQVVY3amsxR2pjdXZYanFRQjl6OF9CTzZUMkxudnRkSHhERHkzYU9xQkVGNEJtbXBGZWphbm00alFBNm9kT1hRQkhaNkx4VUpubjVjdmVNMDZBcUdINGJkZVJWcUtSclJFSUZKZENSemtqc1I4WXBCWEJnejBzUWE1amhxZWtyRUVBSFhFSzZUUWpxX2UxWGhMYVQyQWxiN1RSVlNOR0N5THBDUDVKMmZ0Nlg1cXBRPT0iLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=q%2bY3g5Ki0M%2bHftn%2byV%2b%2fdU14Z4g%3d",
       "imglink": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png"
     },
     {
       "name": "Zoom",
+      "cat": "Music",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtxvUQxkv4UgnREzug7d4fcXa61-_ow_xYmg&usqp=CAU",
       "agent": "",
       "link": "https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8"
     },
     {
       "name": "WOW Cinema One",
+      "cat": "Movies",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/WOW%20Cinema%20One.png",
       "agent": "",
       "link": "https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8"
     },
     {
       "name": "ABP News HD",
+      "cat": "News",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/ABP%20News.png",
       "agent": "",
       "link": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8"
     },
     {
       "name": "News Nation",
+      "cat": "News",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAjPLubbAH9hJYm9dN2b75pT5oZL03eKPqbg&usqp=CAU",
       "agent": "",
       "link": "https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8"
     },
     {
       "name": "Sony Sab HD",
+      "cat": "Entertainment",
       "imglink": "https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png",
       "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa"
     },
     {
       "name": "Sony Ten 1 HD",
+      "cat": "Sports",
       "imglink": "https://origin-staticv2.sonyliv.com/masthead_logo/6025460795001.png",
       "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001"
     },
     {
       "name": "Sony Ten 3 HD",
+      "cat": "Sports",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Sony%20Ten%203%20HD.jpg",
       "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001"
     },
     {
       "name": "AXN HD",
+      "cat": "Entertainment",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/AXN%20HD.png",
       "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
     },
     {
       "name": "Sony BBC Earth HD",
+      "cat": "Lifestyle",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU",
       "agent": "",
       "link": "https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001"
     },
     {
       "name": "DD News",
+      "cat": "News",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/DD%20News.gif",
       "agent": "",
       "link": "https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8"
     },
     {
       "name": "News 24",
+      "cat": "News",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM5F5TrgYY7W2Lmyw1k90JEbBlG-TCwFRuBJf8J7g9NrzWvRaT&usqp=CAU",
       "agent": "",
       "link": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"
     },
     {
       "name": "Dhamaal",
+      "cat": "Music",
       "imglink": "https://images.hungama.com/c/1/13c/a48/41239512/41239512_800x800.jpg",
       "agent": "",
       "link": "http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8"
     },
     {
       "name": "9X Jalwa",
+      "cat": "Music",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHnx3WFy_uKpam8jnsG9NnWkMjjQcUZ9LgeqC1i3F4zJEk7cMt&usqp=CAU",
       "agent": "",
       "link": "https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8"
     },
     {
       "name": "Movie Plus",
+      "cat": "Movies",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPVXPpGItHPFZ9q8_WA1gTqT0vq7-jvTcpIov_vxNkZL4z7Tqv&usqp=CAU",
       "agent": "",
       "link": "https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8"
     },
     {
       "name": "Epic Tv",
+      "cat": "Entertainment",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRC5iZB-i5BsP3lfgXjvskOHm1UzkU5v5uGiJj7zcl-wNwfbfyb&usqp=CAU",
       "agent": "",
       "link": "https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8"
