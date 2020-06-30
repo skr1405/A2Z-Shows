@@ -8,79 +8,91 @@
     },
     {
       "name": "Hungama",
+      "cat": "Kids",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Hungama.png",
       "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/@skr@70,76,84,92@skr@4",
       "link": "http://zer0live.hjkm.info:11990/neptune/hungamahindi/playlist.m3u8"
     },
     {
       "name": "Zee TV HD",
+      "cat": "Entertainment",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Zee%20TV%20HD.png",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db/index.m3u8"
     },
     {
       "name": "MTV Beats HD",
+      "cat": "Music",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZPj9IUeqtPzUuIlR-d3CB5BkD73QR8E_FAg&usqp=CAU",
       "agent": "playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6@skr@https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODgyNjk2MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZiZWF0c19kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTFlGQ3ZoRHgtS3lPMkxKVEZFWm1CNkR3MXRrazMtd1hNSENuQTJObnV1M053T3ZzZUJvVWxjTy1FdWJrekZKdjNHZ2ZTaFZpWkcxelRYSzhzXzRBOGRtUGQwZDhXOG1XMS1GaFZvS2sxZkQ1ZXBqOERMajlhY2FFVXBhQ05OX0hrMm1VUzBTRFF1NFN6a0VoMzh4SURYekQ1dDgxNm1wWnZaek9WN2c1OGxXTGI4YkZDZEF4TVM5c3dnTjFKeWdVVlU0ODI1X3pHcVh2N3FnS2ViZUlkd29BTDdNalJEbklZZ0NOR2xGaDhFOEtKcEFIaGZCVmpoR1E3QU1zZHI1WUE9PSIsInVkaWQiOiI4ZmNiYzc0NDkxZDg3YjkxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=kWG%2fftK%2fP7FXyzb3uKF5oCca%2bNs%3d",
       "link": "https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd"
     },
     {
       "name": "E24",
+      "cat": "Music",
       "imglink": "https://yt3.ggpht.com/a/AATXAJwggfhYOMiQ_kDcHljCXN_Jo8M7oyuT7W-Sq4y0Zw=s900-c-k-c0xffffffff-no-rj-mo",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/out/v1/78239452a9944713bf0dfd0946a55ad5/index.m3u8"
     },
     {
       "name": "Big Ganga",
+      "cat": "Entertainment",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4WNjBwqIxtkSopu4cE_0PzSmPc9G0NhWN4g&usqp=CAU",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/bigganga/index.m3u8"
     },
     {
       "name": "Big Magic",
+      "cat": "Entertainment",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-Z4YUuLYSffeZwQ7QX2suP_xIYmn2cSHOAw&usqp=CAU",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/bigmagic/index.m3u8"
     },
     {
       "name": "Zee Business",
+      "cat": "News",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0Gw4VkQdAjwJsjffx_5fqL2_56iKjqtCJnA&usqp=CAU",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/out/v1/7dcee573362e48908ab1b335d8780625/index.m3u8"
     },
     {
       "name": "Zee News",
+      "cat": "News",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6tFRVPAS13tanp5MVweh3Zjybu4DzWjEXeA&usqp=CAU",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/index.m3u8"
     },
     {
       "name": "Zee Rajasthan",
+      "cat": "News",
       "imglink": "https://pbs.twimg.com/profile_images/1069870389893820416/vWP2eE9t_400x400.jpg",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/rajasthan/index.m3u8"
     },
     {
       "name": "Zing",
+      "cat": "Music",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8ryrrjIZMzDR7QMlTOXVypDpcw1HkfY1ag&usqp=CAU",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
-      "link": "https://m.youtube.com/watch?feature=youtu.be&v=SVjkxdjivts",
-      "_link": "https://z5ams.akamaized.net/zing/index.m3u8"
+      "link": "https://z5ams.akamaized.net/zing/index.m3u8"
     },
     {
       "name": "Nickelodeon Sonic",
+      "cat": "Kids",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Nickelodeon%20Sonic.png",
       "agent": "playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6@skr@https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODMzNjMwMiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJzb25pY19kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTFlGQ3ZoRHgtS3lPMkxKVEZFWm1CNkR3MXRrazMtd1hNSENuQTJObnV1M053T3ZzZUJvVWxjTy1FdWJrekZKdjNHZ2ZTaFZpWkcxelRYSzhzXzRBOGRtUGQwZDhXOG1XMS1GaFZvS2sxZkQ1ZXBqOERMajlhY2FFVXBhQ05OX0hrMm1VUzBTRFF1NFN6a0VoMzh4SURYekQ1dDgxNm1wWnZaek9WN2c1OGxXTGI4YkZDZEF4TVM5c3dnTjFKeWdVVlU0ODI1X3pHcVh2N3FnS2ViZUlkd29BTDdNalJEbklZZ0NOR2xGaDhFOEtKcEFIaGZCVmpoR1E3QU1zZHI1WUE9PSIsInVkaWQiOiI4ZmNiYzc0NDkxZDg3YjkxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=VcX3eSm5D4yC4meoEqT8wwlR4Qs%3d",
       "link": "https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd"
     },
     {
       "name": "Show Box",
+      "cat": "Music",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Show%20Box.png",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/out/v1/be3ef13a77a24a9ab185567d1ea0d9d8/index.m3u8"
     },
     {
       "name": "Republic Bharat",
+      "cat": "News",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Republic%20Bharat.png",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8"
