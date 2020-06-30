@@ -99,72 +99,84 @@
     },
     {
       "name": "Nick Jr.",
+      "cat": "Kids",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Nick%20Jr.png",
       "agent": "playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6@skr@https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA3NDg5NDciLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoibmlja2p1bmlvcl9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTFlGQ3ZoRHgtS3lPMkxKVEZFWm1CNkR3MXRrazMtd1hNSENuQTJObnV1M053T3ZzZUJvVWxjTy1FdWJrekZKdjNHZ2ZTaFZpWkcxelRYSzhzXzRBOGRtUGQwZDhXOG1XMS1GaFZvS2sxZkQ1ZXBqOERMajlhY2FFVXBhQ05OX0hrMm1VUzBTRFF1NFN6a0VoMzh4SURYekQ1dDgxNm1wWnZaek9WN2c1OGxXTGI4YkZDZEF4TVM5c3dnTjFKeWdVVlU0ODI1X3pHcVh2N3FnS2ViZUlkd29BTDdNalJEbklZZ0NOR2xGaDhFOEtKcEFIaGZCVmpoR1E3QU1zZHI1WUE9PSIsInVkaWQiOiI4ZmNiYzc0NDkxZDg3YjkxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=xHspfV23BsuJOP0jiSCdvUX8txQ%3d",
       "link": "https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd"
     },
     {
       "name": "Nick HD+",
+      "cat": "Kids",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Nick%20HD+.png",
       "agent": "playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6@skr@https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkxZRkN2aER4LUt5TzJMSlRGRVptQjZEdzF0a2szLXdYTUhDbkEyTm51dTNOd092c2VCb1VsY08tRXVia3pGSnYzR2dmU2hWaVpHMXpUWEs4c180QThkbVBkMGQ4VzhtVzEtRmhWb0trMWZENWVwajhETGo5YWNhRVVwYUNOTl9IazJtVVMwU0RRdTRTemtFaDM4eElEWHpENXQ4MTZtcFp2WnpPVjdnNThsV0xiOGJGQ2RBeE1TOXN3Z04xSnlnVVZVNDgyNV96R3FYdjdxZ0tlYmVJZHdvQUw3TWpSRG5JWWdDTkdsRmg4RThLSnBBSGhmQlZqaEdRN0FNc2RyNVlBPT0iLCJ1ZGlkIjoiOGZjYmM3NDQ5MWQ4N2I5MSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=isSiO0V6FOZ8%2bmkj7jp%2b3Ud%2fID0%3d",
       "link": "https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd"
     },
     {
       "name": "MTV HD+",
+      "cat": "Music",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8n5wtLgbTmIRWx5tFz_1-znsvM-zayiuhOw&usqp=CAU",
       "agent": "playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6@skr@https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZoZExpdmVfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkxZRkN2aER4LUt5TzJMSlRGRVptQjZEdzF0a2szLXdYTUhDbkEyTm51dTNOd092c2VCb1VsY08tRXVia3pGSnYzR2dmU2hWaVpHMXpUWEs4c180QThkbVBkMGQ4VzhtVzEtRmhWb0trMWZENWVwajhETGo5YWNhRVVwYUNOTl9IazJtVVMwU0RRdTRTemtFaDM4eElEWHpENXQ4MTZtcFp2WnpPVjdnNThsV0xiOGJGQ2RBeE1TOXN3Z04xSnlnVVZVNDgyNV96R3FYdjdxZ0tlYmVJZHdvQUw3TWpSRG5JWWdDTkdsRmg4RThLSnBBSGhmQlZqaEdRN0FNc2RyNVlBPT0iLCJ1ZGlkIjoiOGZjYmM3NDQ5MWQ4N2I5MSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=woN6w5C3RnowAIFR%2b7R3G8oSKz0%3d",
       "link": "https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd"
     },
     {
       "name": "Colors Cineplex HD",
+      "cat": "Movies",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Colors%20Cineplex%20HD.png",
       "agent": "playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6@skr@https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09IiwidWRpZCI6IjhmY2JjNzQ0OTFkODdiOTEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=kDDuaRYMluIZgvBF%2bOaY3z97df0%3d",
       "link": "https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd"
     },
     {
       "name": "Discovery Kids",
+      "cat": "Kids",
       "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",
       "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/@skr@70,76,84,92@skr@4",
       "link": "http://zer0live.hjkm.info:11990/neptune/discoverykids/playlist.m3u8"
     },
     {
       "name": "Cartoon Network",
+      "cat": "Kids",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Cartoon%20Network.png",
       "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/@skr@70,76,84,92@skr@4",
       "link": "http://zer0live.hjkm.info:11990/juno/cartoonnetworkhindi/playlist.m3u8"
     },
     {
       "name": "Zee Cinema HD",
+      "cat": "Movies",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Zee%20Cinema%20HD.png",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/zcinemahd/index.m3u8"
     },
     {
       "name": "&Pictures HD",
+      "cat": "Movies",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ6A8nAmiiuEQwmCFiwN1XnQUfIOjdYLO5Bw&usqp=CAU",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/andpicshd/index.m3u8"
     },
     {
       "name": "&TV HD",
+      "cat": "Entertainment",
       "imglink": "https://akamaividz2.zee5.com/image/upload/w_386,h_386,c_scale,f_auto,q_auto/resources/0-9-tvhd_0/channel_square/tvhd_386x386_634196922.png",
       "agent": "@skr@http://168.235.105.162:3003/aostv/59",
       "link": "https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8"
     },
     {
       "name": "Sony Yay!",
+      "cat": "Kids",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeGYLthEfQZMgpMjlfwbi2h6pnoaGmrpXXRA&usqp=CAU",
       "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/@skr@70,76,84,92@skr@4",
       "link": "http://zer0live.hjkm.info:11990/neptune/sonyyay/playlist.m3u8"
     },
     {
       "name": "Disney Channel",
+      "cat": "Kids",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Disney%20Channel.png",
       "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/@skr@70,76,84,92@skr@4",
       "link": "http://zer0live.hjkm.info:11990/neptune/disneychannelhindi/playlist.m3u8"
     },
     {
       "name": "9XM",
+      "cat": "Music",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVhMEEoYm3iR_HRN3HsR9rnky45UwNdPYpWg&usqp=CAU",
       "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/@skr@70,76,84,92@skr@4",
       "link": "http://zer0live.hjkm.info:11990/neptune/9xm/playlist.m3u8"
