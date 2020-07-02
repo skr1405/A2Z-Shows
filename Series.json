@@ -94,5 +94,11 @@
     "image": "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_QL50_.jpg",
     "season": "Season 4",
     "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/Sherlock4.json"
+    },
+    {
+    "name": "Test",
+    "image": "",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/SuperCops%20Vs%20Super%20Villains/Season1.json"
     }
 ]
