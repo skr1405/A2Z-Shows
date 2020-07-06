@@ -1,5 +1,17 @@
 [
     {
+    "name": "The Shannara Chronicles",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPeAqREVYA_vBwMFLsnjm0fj06sIPtF1BKnA&usqp=CAU",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/The%20Shannara%20Chronicles/Season1.json"
+    },
+    {
+    "name": "The Shannara Chronicles",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWRmYWJmMzktZTk3MC00NWI3LWJlMWItOWU1MTI3ODUxNDYwXkEyXkFqcGdeQXVyNzgzMzE2MTk@._V1_QL50_SY1000_SX1000_AL_.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/The%20Shannara%20Chronicles/Season2.json"
+    },
+    {
     "name": "Rasbhari",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdP8h9L1kOC_YG2ByTVBH0httXpzYFZjpf7Q&usqp=CAU",
     "season": "Season 1",
