@@ -1,5 +1,11 @@
 [
     {
+    "name": "Hyouka",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcwNjUwNDctNzI5Ni00MDg1LWE0YTEtODRhYTMxZTA5OGRjXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL50_.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Hyouka/Season1.json"
+    },
+    {
     "name": "The Shannara Chronicles",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPeAqREVYA_vBwMFLsnjm0fj06sIPtF1BKnA&usqp=CAU",
     "season": "Season 1",
@@ -106,11 +112,5 @@
     "image": "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_QL50_.jpg",
     "season": "Season 4",
     "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/Sherlock4.json"
-    },
-    {
-    "name": "Test",
-    "image": "",
-    "season": "Season 1",
-    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Hyouka/Season1.json"
     }
 ]
