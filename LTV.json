@@ -382,14 +382,21 @@
       "cat": "Sports",
       "imglink": "https://origin-staticv2.sonyliv.com/masthead_logo/6025460795001.png",
       "agent": "",
-      "link": "https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001"
+      "link": "https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594541328~acl=/*~hmac=553e0ce69d0db79512e0185469b3f5a2bb0c6cd602f9b5916be99b78e440019f"
+    },
+    {
+      "name": "Sony Ten 2 HD",
+      "cat": "Sports",
+      "imglink": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto/https://origin-staticv2.sonyliv.com/masthead_logo/6025460814001.png",
+      "agent": "",
+      "link": "https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594541328~acl=/*~hmac=553e0ce69d0db79512e0185469b3f5a2bb0c6cd602f9b5916be99b78e440019f"
     },
     {
       "name": "Sony Ten 3 HD",
       "cat": "Sports",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Sony%20Ten%203%20HD.jpg",
       "agent": "",
-      "link": "https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001"
+      "link": "https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594541328~acl=/*~hmac=553e0ce69d0db79512e0185469b3f5a2bb0c6cd602f9b5916be99b78e440019f"
     },
     {
       "name": "AXN HD",
