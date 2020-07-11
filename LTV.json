@@ -375,7 +375,7 @@
       "cat": "Entertainment",
       "imglink": "https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png",
       "agent": "",
-      "link": "https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa"
+      "link": "https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594541328~acl=/*~hmac=553e0ce69d0db79512e0185469b3f5a2bb0c6cd602f9b5916be99b78e440019f"
     },
     {
       "name": "Sony Ten 1 HD",
@@ -516,6 +516,6 @@
       "cat": "Entertainment",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Sony%20Set%20HD.png",
       "agent": "",
-      "link": "https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
+      "link": "https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594541328~acl=/*~hmac=553e0ce69d0db79512e0185469b3f5a2bb0c6cd602f9b5916be99b78e440019f"
     }    
 ]
