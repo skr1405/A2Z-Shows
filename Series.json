@@ -1,5 +1,11 @@
 [
     {
+    "name": "Tokyo Ghoul: √A",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWZmMDdhNTktZTRlZC00YzExLTk2ZTAtM2IxNjc4YzBlYmY0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL50_SY1000_CR0,0,703,1000_AL_.jpg",
+    "season": "Season 2 (Tokyo Ghoul)",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Tokyo%20Ghoul/Season2(%E2%88%9AA).json"
+    },
+    {
     "name": "Apharan",
     "image": "https://m.media-amazon.com/images/M/MV5BODQzYjNjNTItZmU2NC00OGE1LTgwNWItZDcxMGE4MmRlMmM3XkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_QL50_SY1000_CR0,0,692,1000_AL_.jpg",
     "season": "Season 1",
