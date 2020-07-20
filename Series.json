@@ -1,16 +1,4 @@
-[
-    {
-    "name": "Undekhi",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWQ1ODE5YzYtYWExMS00MzczLWI2ZjItYTBkMmM5ZWJjZTRkXkEyXkFqcGdeQXVyMTQxNDM2MjY@._V1_QL50_.jpg",
-    "season": "Season 1",
-    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Undekhi/Season1.json"
-    },
-    {
-    "name": "Apharan",
-    "image": "https://m.media-amazon.com/images/M/MV5BODQzYjNjNTItZmU2NC00OGE1LTgwNWItZDcxMGE4MmRlMmM3XkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_QL50_SY1000_CR0,0,692,1000_AL_.jpg",
-    "season": "Season 1",
-    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Apharan/Season1.json"
-    },
+[  
     {
     "name": "Tokyo Ghoul",
     "image": "https://m.media-amazon.com/images/M/MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL50_SY1000_CR0,0,707,1000_AL_.jpg",
@@ -22,6 +10,30 @@
     "image": "https://m.media-amazon.com/images/M/MV5BOWZmMDdhNTktZTRlZC00YzExLTk2ZTAtM2IxNjc4YzBlYmY0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL50_SY1000_CR0,0,703,1000_AL_.jpg",
     "season": "Season 2 (Tokyo Ghoul)",
     "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Tokyo%20Ghoul/Season2(%E2%88%9AA).json"
+    },
+    {
+    "name": "Tokyo Ghoul: re",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2M4MGVjODgtYmY4OS00N2U4LTlkNzUtY2NjYzRiMTI3YjgwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL50_SY1000_CR0,0,647,1000_AL_.jpg",
+    "season": "Season 3 (Tokyo Ghoul)",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Tokyo%20Ghoul/Season4(re).json"
+    },
+    {
+    "name": "Tokyo Ghoul: re (II Season)",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2M4MGVjODgtYmY4OS00N2U4LTlkNzUtY2NjYzRiMTI3YjgwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL50_SY1000_CR0,0,647,1000_AL_.jpg",
+    "season": "Season 4 (Tokyo Ghoul)",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Tokyo%20Ghoul/Season4(re2).json"
+    },
+    {
+    "name": "Undekhi",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQ1ODE5YzYtYWExMS00MzczLWI2ZjItYTBkMmM5ZWJjZTRkXkEyXkFqcGdeQXVyMTQxNDM2MjY@._V1_QL50_.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Undekhi/Season1.json"
+    },
+    {
+    "name": "Apharan",
+    "image": "https://m.media-amazon.com/images/M/MV5BODQzYjNjNTItZmU2NC00OGE1LTgwNWItZDcxMGE4MmRlMmM3XkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_QL50_SY1000_CR0,0,692,1000_AL_.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Apharan/Season1.json"
     },
     {
     "name": "Hyouka",
