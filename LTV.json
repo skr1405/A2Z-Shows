@@ -283,8 +283,10 @@
       "name": "Star Gold HD",
       "cat": "Movies",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQye8v58o2uVvEe10rw0P7ntnEd7Jvifmb_9Q&usqp=CAU",
-      "agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
-      "link": "http://hotstar.live.cdn.jio.com/hotstar_isl/stargold/master.m3u8?partner=jio-stb"
+      "agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36@skr@https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAAABNlKb0AAAAAAGCzG1xhPLOlzkdmudYDyPH5TUsfL9E-WKeBHptwbrqGtIX4Y1YeVadBzNMV6f384K6NWv2eSaJ2qe39F1smjGBaz-DrDMQpJRnNWyTdfqfMf_66KEOWoGZ0NzEjvbVcygFHDHKYAtnKLey4RvUN8hDBy3aRQA",
+      "link": "https://staragolddash-i.akamaihd.net/dash/live/2002481/stargoldwv/master.mpd",
+      "referer": "https://www.hotstar.com/in/",
+      "cookie": "hdntl=exp=1595856986~acl=%2f*~data=hdntl~hmac=40ace93124253f8b90208679e39cbcc6df6df61366b3b8f58a6e96878dddfe5a",
     },
     {
       "name": "Star Plus HD",
