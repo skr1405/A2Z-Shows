@@ -241,8 +241,9 @@
       "name": "Cartoon Network",
       "cat": "Kids",
       "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Cartoon%20Network.png",
-      "agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/@skr@70,76,84,92@skr@4",
-      "link": "http://zer0live.hjkm.info:11990/juno/cartoonnetworkhindi/playlist.m3u8"
+      "_agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/@skr@70,76,84,92@skr@4",
+      "link": "http://indtv.online/jiotv/Cartoon_Network_Hindi.m3u8",
+      "_link": "http://zer0live.hjkm.info:11990/juno/cartoonnetworkhindi/playlist.m3u8"
     },
     {
       "name": "Zee Cinema HD",
