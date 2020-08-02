@@ -1,6 +1,6 @@
 [
     {
-      "name": "History TV18 HD",
+      "name": "Historyy TV18 HD",
       "cat": "",
       "imglink": "",
       "agent": "",
@@ -123,6 +123,7 @@
       "cat": "Entertainment",
       "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3bvoPKeQgQfr9J140CejXgShgHcWvg27FEg&usqp=CAU",
       "_agent": "@skr@http://51.15.209.90:8800/fio/3b.rbt/@skr@70,76,84,92@skr@4",
+      "agent": "",
       "link": "http://indtv.online/jiotv/Dangal.m3u8",
       "_link": "http://zer0live.hjkm.info:11990/neptune/dangaaltv/playlist.m3u8"
     },
