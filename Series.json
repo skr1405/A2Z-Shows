@@ -1,11 +1,5 @@
 [
     {
-    "name": "Death Note",
-    "image": "https://m.media-amazon.com/images/M/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_QL50_.jpg",
-    "season": "Season 1",
-    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Death%20Note/Season1.json"
-    },
-    {
     "name": "Tokyo Ghoul",
     "image": "https://m.media-amazon.com/images/M/MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL50_SY1000_CR0,0,707,1000_AL_.jpg",
     "season": "Season 1",
