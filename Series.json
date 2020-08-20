@@ -1,5 +1,11 @@
 [
     {
+    "name": "Abhay",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzZlMzYwOGEtMWQ0ZC00MTQ0LTk1YzUtODhmM2M2NDM4YjI0XkEyXkFqcGdeQXVyMjMwMDY0NjY@._V1_QL50_SY1000_CR0,0,728,1000_AL_.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Abhay/Season1.json"
+    },
+    {
     "name": "Tokyo Ghoul",
     "image": "https://m.media-amazon.com/images/M/MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL50_SY1000_CR0,0,707,1000_AL_.jpg",
     "season": "Season 1",
