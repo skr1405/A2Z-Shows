@@ -1,5 +1,11 @@
 [
     {
+    "name": "The Family Man",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjZkY2YxYTgtYmVkOC00NTgwLThjY2YtN2Y1ZWFlZmVhOTQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,714,1000_AL_.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/The%20Family%20Man/Season1.json"
+    },
+    {
     "name": "Abhay",
     "image": "https://m.media-amazon.com/images/M/MV5BMzZlMzYwOGEtMWQ0ZC00MTQ0LTk1YzUtODhmM2M2NDM4YjI0XkEyXkFqcGdeQXVyMjMwMDY0NjY@._V1_QL50_SY1000_CR0,0,728,1000_AL_.jpg",
     "season": "Season 1",
