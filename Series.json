@@ -1,5 +1,11 @@
 [
     {
+    "name": "JL50",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzBlZTQ2ZmYtNjAzOS00N2YxLTg3MTQtMGEwY2FhM2YxNDQ2XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UX1000_.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/JL50/Season1.json"
+    },
+    {
     "name": "The Family Man",
     "image": "https://m.media-amazon.com/images/M/MV5BZjZkY2YxYTgtYmVkOC00NTgwLThjY2YtN2Y1ZWFlZmVhOTQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,714,1000_AL_.jpg",
     "season": "Season 1",
