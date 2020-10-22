@@ -1,5 +1,11 @@
 [
     {
+    "name": "Mirzapur",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Poster_of_Mirzapur_2018.jpg/220px-Poster_of_Mirzapur_2018.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/skr1405/A2Z-Shows/master/WebSeries/Mirzapur/Season2.json"
+    },
+    {
     "name": "JL50",
     "image": "https://m.media-amazon.com/images/M/MV5BYzBlZTQ2ZmYtNjAzOS00N2YxLTg3MTQtMGEwY2FhM2YxNDQ2XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UX1000_.jpg",
     "season": "Season 1",
