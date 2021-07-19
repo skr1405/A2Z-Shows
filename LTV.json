@@ -1,5 +1,12 @@
 [
     {
+      "name": "UTV Movies",
+      "cat": "Movies",
+      "imglink": "",
+      "agent": "",
+      "link": "http://185.180.15.15:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=RK"
+    },
+    {
       "name": "Food Food",
       "cat": "Lifestyle",
       "imglink": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Food_Food_%28TV_Channel%29_Logo.jpg/150px-Food_Food_%28TV_Channel%29_Logo.jpg",
